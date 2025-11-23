@@ -3,3 +3,7 @@ __pycache__/
 data/*.csv
 outputs/
 .ipynb_checkpoints/
+__pycache__/
+data/*.csv
+outputs/
+.ipynb_checkpoints/
