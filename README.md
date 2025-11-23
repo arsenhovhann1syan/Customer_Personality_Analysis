@@ -61,4 +61,4 @@ ANOVA test on `TotalSpend` across clusters:
 
 ## Visualizations
 - Scatter plot of `Income vs TotalSpend` with cluster assignments and centroids  
-- Bar charts for cluster profile comparison (optional)  
+- Bar charts for cluster profile comparison (optional)
